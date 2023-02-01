@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SandTime</string>
+    <string name="no_events_create_one">No events create one</string>
+    <string name="fab_content">fab_content</string>
 </resources>
